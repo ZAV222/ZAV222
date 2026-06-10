@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Parikshit Acharya 👋
 
-<!--
-**ZAV222/ZAV222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a logic-driven technical professional focused on data automation, backend logic, and systems manipulation. I specialize in building efficient pipelines that turn raw relational databases into clean, actionable business intelligence.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C,Python, Java, JavaScript, SQL
+- **Data & Analytics:** Pandas, Matplotlib, SQLite3
+- **Environment & Tools:** Manjaro Linux, Git & Version Control
+- **Frameworks:** Django, Flask
+## 🚀 Featured Projects
+
+### [SQL to Python Data Automation Pipeline](https://github.com/ZAV222/sql-python-data-pipeline)
+A local backend pipeline running on Linux that queries transactional relational tables and automates vector visual reporting using Pandas and Matplotlib.
+- *Keywords:* SQLite, Python, Automation, Linux
+
+## ⚡ Core Strengths
+- Strong system logic, debugging, and precise attention to detail.
+- Experience managing localized execution environments (Python venvs).
+- Native Linux workflow efficiency.
+
+---
+*Looking for remote entry-level data analytics and backend development opportunities.*
