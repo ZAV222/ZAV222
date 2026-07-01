@@ -15,6 +15,8 @@ A local backend pipeline running on Linux that queries transactional relational 
 - *Keywords:* SQLite, Python, Automation, Linux
 
 ### [Weather Report](https://github.com/ZAV222/WeatherReport)
+A Python command-line weather application that retrieves real-time weather data for any city using the Open-Meteo API, processes the response, and presents current weather conditions in a clean, formatted terminal report.
+- *Keywords:* Python, REST API, Open-Meteo API, JSON, Requests, Datetime, CLI, Weather Data
 
 ## ⚡ Core Strengths
 - Strong system logic, debugging, and precise attention to detail.
