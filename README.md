@@ -1,6 +1,5 @@
 # Hi there, I'm Parikshit Acharya 👋
-
-I am a logic-driven technical professional focused on data automation, backend logic, and systems manipulation. I specialize in building efficient pipelines that turn raw relational databases into clean, actionable business intelligence.
+Computing graduate passionate about software engineering, backend development, automation and low level programming. Skilled in C, Python, JavaScript, SQL, and Linux, with experience building REST API integrations, data-driven applications, and scalable software solutions.
 
 ## 🛠️ My Tech Stack
 
