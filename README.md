@@ -14,10 +14,11 @@ I am a logic-driven technical professional focused on data automation, backend l
 A local backend pipeline running on Linux that queries transactional relational tables and automates vector visual reporting using Pandas and Matplotlib.
 - *Keywords:* SQLite, Python, Automation, Linux
 
+### [Weather Report](https://github.com/ZAV222/WeatherReport)
+
 ## ⚡ Core Strengths
 - Strong system logic, debugging, and precise attention to detail.
 - Experience managing localized execution environments (Python venvs).
 - Native Linux workflow efficiency.
 
 ---
-*Looking for remote entry-level data analytics and backend development opportunities.*
